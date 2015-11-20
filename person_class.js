@@ -11,4 +11,6 @@ class Person{
   }
 }
 
-var george = new Person("Steven", ["Name", "Other_Name"])
+// var george = new Person("Steven", ["Name", "Other_Name"])
+
+export default Person;
